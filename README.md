@@ -2,7 +2,7 @@
 
 A repository for a chess game in Python (Assignment 12).
 
-
+[![Run on Repl.it](https://repl.it/badge/github/chimawong/ChessGame)](https://repl.it/github/chimawong/ChessGame)
 
 ## Grading rubrics
 
